@@ -86,7 +86,7 @@ Plus tu progresses, plus ton univers se développe. Chaque action contribue à f
 
 ## 🚀 Dernière version
 
-### Echo v2.1.0
+### Echo v3.0.0
 
 La Forêt Partagée évolue !
 
