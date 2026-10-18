@@ -34,6 +34,7 @@ Ton objectif ? Prendre soin de toi tout en cultivant une forêt qui grandit avec
 - Suis ton humeur, ton énergie, ton sommeil et ton état physique.
 - Visualise ta progression au fil des jours.
 - Transforme tes habitudes en petites victoires quotidiennes.
+- Suivi du sommeil amélioré
 
 ### 🌳 Une forêt qui évolue avec toi
 - Fais pousser et évoluer tes arbres.
@@ -86,13 +87,12 @@ Plus tu progresses, plus ton univers se développe. Chaque action contribue à f
 
 ## 🚀 Dernière version
 
-### Echo v3.0.0
+### 🌙 ECHO v3.1.0
 
-La Forêt Partagée évolue !
-
-- 📊 Calcul plus précis de l'EXP hebdomadaire.
-- ⚡ Synchronisation en temps réel du profil et du classement en ligne.
-- 🔄 Améliorations de stabilité de la synchronisation.
+- 📊 Nouveau tableau de bord **Sommeil & Nuit** avec hypnogramme, score sur 100 et suivi des phases du sommeil.
+- ⌚ Synchronisation améliorée avec Health Connect et Google Fit pour des données de sommeil plus précises.
+- 🍃 Correction de la protection des séries en Mode Douceur et de la réinitialisation hebdomadaire de l'EXP.
+- ✨ Optimisation de l'interface et fiabilisation du système de détection des mises à jour.
 
 👉 [Consulter toutes les releases](../../releases)
 
